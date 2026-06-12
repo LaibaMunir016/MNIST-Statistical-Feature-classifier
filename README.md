@@ -1,6 +1,6 @@
 # MNIST Digit Classifier via Hand-Crafted Statistical Features
 
-> Classifying handwritten digits (0–9) from the MNIST dataset using 14 custom statistical image features fed into a Random Forest — no deep learning, no convolutions, just signal processing fundamentals.
+Classifying handwritten digits (0–9) from the MNIST dataset using 14 custom statistical image features fed into a Random Forest — no deep learning, no convolutions, just signal processing fundamentals.
 
 ---
 
